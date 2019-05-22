@@ -1,0 +1,14 @@
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe.config
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.exe
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\bin\Debug\ThucTapNhom.pdb
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csprojAssemblyReference.cache
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.Properties.Resources.resources
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.GenerateResource.cache
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.csproj.CoreCompileInputs.cache
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.exe
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.pdb
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.FormKKSL.resources
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.FormCT_KKSL.resources
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.FormKKCL.resources
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.FormCT_KKCL.resources
+C:\Users\VS9 X64Bit\source\repos\ThucTapNhom\ThucTapNhom\obj\Debug\ThucTapNhom.FormDANHMUC.resources
